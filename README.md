@@ -1,13 +1,8 @@
-# Neural Collaborative Filtering Book Recommendation System  
-and  
-# Combined Guided Topic Modeling-Based and Aspect-Based Sentiment Analysis For Book User Reviews
-Combined repository for my Master's practicum 1 and 2 projects: Neural Collaborative Filtering Book Recommendation System and Combined Guided Topic Modeling-Based and Aspect-Based Sentiment Analysis For Book User Reviews. Both projects use the same data.
+# Note
+Combined repository for my Master's practicum 1 and 2 projects: Neural Collaborative Filtering Book Recommendation System and Combined Guided Topic Modeling-Based and Aspect-Based Sentiment Analysis For Book User Reviews. Both projects use the same data. Due to file sizes, the notebooks had to be split up and the data could not be uploaded.
 
 
 # Neural Collaborative Filtering Book Recommendation System
-
-## Note
-Due to file sizes, the notebooks had to be split up and the data could not be uploaded.
 
 ## Introduction
 Recommendation systems generate lists of items a user might be interested in. A well-known example of this is movie recommendation in streaming content providers like Netflix or Hulu. Collaborative filtering recommendation systems suggest items for a user based on what similar users are interested in. In this case, it is book ratings. This can be accomplished without knowing anything about the item's content such as genre, actor, or author. Those are used in content filtering recommendation systems and is out of scope for this project. It is useful that you can make recommendations for a user based on other users. However, when an item has no ratings then there is nothing to link it between users. This is known as the cold start problem.

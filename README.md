@@ -2,8 +2,8 @@
 Combined repository for my Master's practicum 1 and 2 projects: Neural Collaborative Filtering Book Recommendation System and Combined Guided Topic Modeling-Based and Aspect-Based Sentiment Analysis For Book User Reviews. Both projects use the same data. Due to file sizes, the notebooks had to be split up and the data could not be uploaded.  
 
 The recorded presentations can be found at:
-  + [Neural Collaborative Filtering Book Recommendation System](https://youtu.be/aI9pGZi2VoE)
-  + [Combined Guided Topic Modeling-Based and Aspect-Based Sentiment Analysis For Book User Reviews](https://youtu.be/HXRWSslT7UM)
+  + [Neural Collaborative Filtering Book Recommendation System Presentation](https://youtu.be/aI9pGZi2VoE)
+  + [Combined Guided Topic Modeling-Based and Aspect-Based Sentiment Analysis For Book User Reviews Presentation](https://youtu.be/HXRWSslT7UM)
 
 
 # Neural Collaborative Filtering Book Recommendation System
